@@ -2,21 +2,18 @@
   "products": [
     {
       "id": 1,
-      "title": "iPhone 9",
-      "description": "An apple mobile which is nothing like apple",
-      "price": 549,
-      "discountPercentage": 12.96,
-      "rating": 4.69,
-      "stock": 94,
+      "title": "Apple iPhone 14 Pro Max",
+      "description": "Dynamic Island, a magical new way to interact with iPhone",
+      "price": 1390,
+      "rating": 4.5,
       "brand": "Apple",
       "category": "smartphones",
-      "thumbnail": "https://dummyjson.com/image/i/products/1/thumbnail.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_UY436_FMwebp_QL65_.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/1/1.jpg",
-        "https://dummyjson.com/image/i/products/1/2.jpg",
-        "https://dummyjson.com/image/i/products/1/3.jpg",
-        "https://dummyjson.com/image/i/products/1/4.jpg",
-        "https://dummyjson.com/image/i/products/1/thumbnail.jpg"
+        "https://m.media-amazon.com/images/I/61ofpWT1PHL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/711yt5-rPLL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71dKjvLPkAL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61MRoqJQOdL._SX679_.jpg"
       ]
     },
     {
