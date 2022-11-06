@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Apple iPhone 14 Pro Max",
-      "description": "Dynamic Island, a magical new way to interact with iPhone",
+      "description": "The iPhone 14 Plus comes with 6.7-inch OLED display with 120Hz refresh rate and Apple's improved Bionic A16 processor.",
       "price": 1390,
       "rating": 4.5,
       "brand": "Apple",
@@ -18,7 +18,7 @@
     },
     {
       "id": 2,
-      "title": "SAMSUNG 22 inch Full HD IPS Panel Monitor",
+      "title": "Samsung 22 inch Full HD IPS Panel Monitor",
       "description": "With its unique 3-sided borderless design, this Samsung monitor provides an impeccable multi-monitor arrangement experience.",
       "price": 8699,
       "rating": 4.44,
@@ -34,7 +34,7 @@
     },
     {
       "id": 3,
-      "title": "APPLE 2021 Macbook Pro M1 Pro ",
+      "title": "Apple 2021 Macbook Pro M1 Pro ",
       "description": "APPLE 2021 Macbook Pro M1 - (16 GB/1 TB SSD/Mac OS Monterey) MK1F3HN/A  (16.2 inch, Silver, 2.1 kg)",
       "price": 2459,
       "rating": 4.7,
@@ -49,7 +49,7 @@
     },
     {
       "id": 4,
-      "title": "ASUS ROG Strix G15 Ryzen 7",
+      "title": "Asus ROG Strix G15 Ryzen 7",
       "description": "ASUS ROG Strix G15 Ryzen 7 Octa Core AMD R7-4800H - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti/144 Hz) G513IE-HN040WS Gaming Laptop",
       "price": 90000,
       "rating": 4.6,
@@ -65,7 +65,7 @@
     },
     {
       "id": 5,
-      "title": "realme 80 cm (32 inch) HD Ready LED Smart Android TV ",
+      "title": "Realme 80 cm (32 inch) HD Ready LED Smart Android TV ",
       "description": "Bring home this TV from realme and experience the stunning visuals that result from its Chroma Boost Picture Engine. Boasting a Bezel-less design",
       "price": 13999,
       "rating": 4.3,
