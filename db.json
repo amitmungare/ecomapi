@@ -81,100 +81,114 @@
     },
     {
       "id": 6,
-      "title": "MacBook Pro",
-      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-      "price": 1749,
-      "rating": 4.57,
-      "brand": "APPle",
-      "category": "laptops",
-      "thumbnail": "https://dummyjson.com/image/i/products/6/thumbnail.png",
+      "title": "OnePlus Nord Watch",
+      "description": "OnePlus Nord Watch with 1.78” AMOLED Display, 60 Hz Refresh Rate, 105 Fitness Modes, 10 Days Battery, SPO2, Heart Rate, Stress Monitor, Women Health Tracker & Multiple Watch Faces [Deep Blue]",
+      "price": 4999,
+      "rating": 4.6,
+      "brand": "OnePlus",
+      "category": "Watch",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Lums4VcgL._SX679_.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/6/1.png",
-        "https://dummyjson.com/image/i/products/6/2.jpg",
-        "https://dummyjson.com/image/i/products/6/3.png",
-        "https://dummyjson.com/image/i/products/6/4.jpg"
+        "https://m.media-amazon.com/images/I/61uKpI1-vFL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61zGD4sYtzL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61nUdA5hxCL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61M-+kO3dzL._SX679_.jpg"
       ]
     },
     {
       "id": 7,
-      "title": "Samsung Galaxy Book",
-      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
-      "price": 1499,
-      "rating": 4.25,
-      "brand": "Samsung",
-      "category": "laptops",
-      "thumbnail": "https://dummyjson.com/image/i/products/7/thumbnail.jpg",
+      "title": "Nothing Phone",
+      "description": "Nothing Phone (1) (Black, 256 GB) (8 GB RAM)",
+      "price": 34000,
+      "rating": 3.25,
+      "brand": "Nothing",
+      "category": "Phone",
+      "thumbnail": "https://m.media-amazon.com/images/I/61IhQqu+M2L._SX679_.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/7/1.jpg",
-        "https://dummyjson.com/image/i/products/7/2.jpg",
-        "https://dummyjson.com/image/i/products/7/3.jpg",
-        "https://dummyjson.com/image/i/products/7/thumbnail.jpg"
+        "https://m.media-amazon.com/images/I/51IIYOPAXYL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61NmcDAsEOL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/514wkXVi74L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51o1lH6YBIL._SX679_.jpg"
       ]
     },
     {
       "id": 8,
-      "title": "Microsoft Surface Laptop 4",
-      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
-      "price": 1499,
-      "rating": 4.43,
-      "brand": "Microsoft Surface",
-      "category": "laptops",
-      "thumbnail": "https://dummyjson.com/image/i/products/8/thumbnail.jpg",
+      "title": "Samsung Galaxy S22 5G",
+      "description": "Pro-grade Camera that lets you make your nights epic with Nightography: It’s our brightest innovation yet. ",
+      "price": 70000,
+      "rating": 4.9,
+      "brand": "Samsung",
+      "category": "Phone",
+      "thumbnail": "https://m.media-amazon.com/images/I/71qZERyxy6L._SX679_.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/8/1.jpg",
-        "https://dummyjson.com/image/i/products/8/2.jpg",
-        "https://dummyjson.com/image/i/products/8/3.jpg",
-        "https://dummyjson.com/image/i/products/8/4.jpg",
-        "https://dummyjson.com/image/i/products/8/thumbnail.jpg"
+        "https://m.media-amazon.com/images/I/51Z-Q37X03L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51ciq7A3SOL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71Bd-D0Cw8L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71N-v8vbbhL._SX679_.jpg"
       ]
     },
     {
       "id": 9,
-      "title": "Infinix INBOOK",
-      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
-      "price": 1099,
-      "rating": 4.54,
-      "brand": "Infinix",
-      "category": "laptops",
-      "thumbnail": "https://dummyjson.com/image/i/products/9/thumbnail.jpg",
+      "title": "GoPro HERO11 Black",
+      "description": "GoPro HERO11 Black Waterproof Action Camera with Front + Rear LCD Screens, 5.3K60 Ultra HD Video, Hypersmooth Resolution, 27MP Photos, 1080p Live Streaming with Enduro Battery",
+      "price": 4999,
+      "rating": 4.1,
+      "brand": "GoPro",
+      "category": "GoPro",
+      "thumbnail": "https://m.media-amazon.com/images/I/617sGSjmC1L._SX679_.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/9/1.jpg",
-        "https://dummyjson.com/image/i/products/9/2.png",
-        "https://dummyjson.com/image/i/products/9/3.png",
-        "https://dummyjson.com/image/i/products/9/4.jpg",
-        "https://dummyjson.com/image/i/products/9/thumbnail.jpg"
+        "https://m.media-amazon.com/images/I/61w0vlg+L3L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61Dv+d6TcsL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61fi1BWM9NL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61lAOZGsJiL._SX679_.jpg"
       ]
     },
     {
       "id": 10,
-      "title": "HP Pavilion 15-DK1056WM",
-      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
-      "price": 1099,
-      "rating": 4.43,
-      "brand": "HP Pavilion",
-      "category": "laptops",
-      "thumbnail": "https://dummyjson.com/image/i/products/10/thumbnail.jpeg",
+      "title": "Nikon D850 45.7MP Digital SLR Camera",
+      "description": "Nikon D850 45.7MP Digital SLR Camera (Black) with AF-S Nikkor 24-120mm F/4G ED VR Lens and 64GB Memory Card",
+      "price": 22902,
+      "rating": 3.9,
+      "brand": "Nikon",
+      "category": "Camera",
+      "thumbnail": "https://m.media-amazon.com/images/I/81WtQ64-SOL._SX679_.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/10/1.jpg",
-        "https://dummyjson.com/image/i/products/10/2.jpg",
-        "https://dummyjson.com/image/i/products/10/3.jpg",
-        "https://dummyjson.com/image/i/products/10/thumbnail.jpeg"
+        "https://m.media-amazon.com/images/I/51+4GiaDUmL.jpg",
+        "https://m.media-amazon.com/images/I/51idvEDKeJL.jpg",
+        "https://m.media-amazon.com/images/I/41lu9HBqjeL.jpg",
+        "https://m.media-amazon.com/images/I/41gbloF2I3L._SS40_.jpg"
       ]
     },
     {
       "id": 11,
-      "title": "perfume Oil",
-      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
-      "price": 13,
-      "rating": 4.26,
-      "brand": "Impression of Acqua Di Gio",
-      "category": "fragrances",
-      "thumbnail": "https://dummyjson.com/image/i/products/11/thumbnail.jpg",
+      "title": "Apple AirPods Pro ",
+      "description": "Active Noise Cancellation reduces unwanted background noise Adaptive Transparency lets outside sounds in while reducing loud environmental noise",
+      "price": 1300,
+      "rating": 4.56,
+      "brand": "Apple",
+      "category": "Earphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/61SUj2aKoEL._SX679_.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/11/1.jpg",
-        "https://dummyjson.com/image/i/products/11/2.jpg",
-        "https://dummyjson.com/image/i/products/11/3.jpg",
-        "https://dummyjson.com/image/i/products/11/thumbnail.jpg"
+        "https://m.media-amazon.com/images/I/61sRKTAfrhL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51emillNpWL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51+vJkbGtJL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51s3yLTjWSL._SX679_.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Sony WH-1000XM5 Wireless",
+      "description": "Sony WH-1000XM5 Wireless Industry Leading Active Noise Cancelling Headphones, 8 Mics for Crystal Clear Calling, 30Hr Battery, 3 Min Quick Charge = 3 Hours Playback, Multi Point Connectivity, Alexa.",
+      "price": 2900,
+      "rating": 3.56,
+      "brand": "Sony",
+      "category": "Earphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/61+btxzpfDL._SX679_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81gW2Vb93RL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81kCCjRFZTL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81q1SrpG1PL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81R9lJdRL7L._SX679_.jpg"
       ]
     }
   ]
